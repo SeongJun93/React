@@ -1,0 +1,90 @@
+.checkMore {
+  position: relative;
+  left: 80%;
+  margin-top: 10%;
+  text-decoration: none;
+  color : black;
+}
+.NewsMain{
+
+  display: flex;
+  justify-content: center;
+  height: 480px;
+}
+
+.test {
+  display: none;
+}
+
+.leftNews{
+  margin-top: 15%;
+  display : flex;
+  width:200px; 
+  height:150px;
+  float:left;
+}
+
+.banner {
+  display : flex;
+  width:500px; 
+  height:300px;
+  float:left;
+  margin-top: 100px;
+  margin-left: 30px;
+  }
+.img{
+  width: 500px;
+}
+.NewsList{
+  margin-top: 10%;
+  display : flex;
+  width: 500px;
+  height: 300px;
+  float:left;
+}
+.NewsListsub{
+  list-style-type: none;
+  font-weight: 300;
+}
+.LeanMore{
+  margin-left: 5%;
+  text-decoration: none;
+  color: coral;
+}
+
+/* ------------------------------------------------------------------------------
+                  NewsPage css */
+
+
+.NewsPageTopDisplay{
+  width: 1400px;; 
+  height: 700px;;
+}
+.imgNewsPage{
+  width: 1400px;; 
+  height: 700px;
+}
+
+/* ------------------------------------------------------------------------------
+                  NewsLearnMore css */
+
+.leftRecent{
+  margin-top: 50px;
+  display : flex;
+  width:200px; 
+  height:150px;
+  float:left;
+  padding-left: 100px;
+  padding-right: 200px;
+}
+.NewsForm{
+  margin-top: 50px;
+  display : flex;
+  width:800px; 
+  height:auto;
+}
+.Bnt{
+  position: absolute;
+  bottom: 30px;
+  padding-left: 55%;
+}

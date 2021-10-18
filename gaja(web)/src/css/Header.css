@@ -1,0 +1,17 @@
+.header-wrapper{
+    display: flex;
+    z-index: 1;
+    position: fixed;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.menu {
+    color: rgb(0 0 0);
+    position: absolute;
+    margin-top: 4%;
+    left: 1210px;
+    cursor: pointer;
+}
